@@ -1,7 +1,7 @@
 # predictive_analysis
 
 МЕТРИКА F1 ПОКА:
-| Model                       | CONV-AE | LSTM-AE | Arima |
+| Model                       | CONV-AE | LSTM-AE | LSTM-VAE |
 |-----------------------------|---------|---------|-------|
 | Original data               |   0.78  |   0.76  |  0.53 |
 | + Synthetic data (GAN's)    |         |         |       |
