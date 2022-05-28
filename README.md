@@ -50,8 +50,7 @@
   - [GANS](https://github.com/addicted-by/predictive_analysis/blob/main/gan_gen.ipynb);
   - [Инженерная модель](https://github.com/addicted-by/predictive_analysis/tree/main/generator_modelica); 
 - [X] Наличие метода сравнение синтетических и реальных данных (CLEARML);
-- [X] [Разработанная концепция применения FMU модулей](https://github.com/addicted-by/predictive_analysis/blob/main/generated_by_gans/README.md).
-
+- [] Разработанная концепция применения FMU модулей
 
 ## References:
 - [Датасет + Аналитика](https://www.kaggle.com/datasets/yuriykatser/skoltech-anomaly-benchmark-skab/code)
