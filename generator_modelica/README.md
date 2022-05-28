@@ -6,7 +6,6 @@
 * [Usage](#step2)
 * [Arguments](#step3)
 
-![alt text](sample.gif)
 <a name = "step1"></a>
 # Setup
 1. Установка Conda
@@ -47,7 +46,6 @@ if __name__ == "__main__":
 | `run_demo` | control_params=`[]` | Меняющиеся начальные значения симуляции |
 | `run_demo` | state_to_plot=`[]` | Состояния, для которых отрисовывать графики |
 | `run_demo` | initialize_params=`[]` | Параметры инициализации симуляции |
-
 | `get_model` | - | Получение модели, готовой к симуляции в PyFmi |
 | `get_simulation` | - | Получение последней симуляции модели |
 | `get_initialize_parameters` | - | Получение инициализированных параметры симуляции |
